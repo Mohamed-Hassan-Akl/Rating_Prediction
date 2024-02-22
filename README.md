@@ -9,4 +9,4 @@ By analyzing potential listings for wish.com, we can predict the appeal of new p
 This document aims to forecast product ratings based on known features within Wish.com’s context, where ratings range from 1 to 5 – with higher ratings indicating greater customer satisfaction. The analysis employs four different algorithms across three unique data sets.
 
 ### Outcome:
-A Python notebook that includes the final model's documentation and responses to relevant inquiries.
+Applied four different machine learning algorithms across three datasets to assess model performance and understand customer preferences. Identified that Random Forest and Support Vector Classifier models significantly outperformed the Naive Bayes and Decision Tree classifiers. Concluded with the selection of the Random Forest model due to its lowest generalization error, enhancing the accuracy of product rating predictions.
